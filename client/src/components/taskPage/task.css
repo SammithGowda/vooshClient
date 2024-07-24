@@ -1,0 +1,72 @@
+/* Task Page Styles */
+.task-page {
+    font-family: Arial, sans-serif;
+  }
+  
+  .task-container {
+    padding: 20px;
+  }
+  
+  .task-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .add-task-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .search-sort {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-input {
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  .sort-select {
+    padding: 10px;
+  }
+  
+  .task-list {
+    margin-top: 20px;
+  }
+  
+  .task-card {
+    background-color: #e6f2ff;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .task-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .delete-btn, .edit-btn, .view-details-btn {
+    background-color: #ff4d4d;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  
+  .edit-btn {
+    background-color: #007bff;
+  }
+  
+  .view-details-btn {
+    background-color: #17a2b8;
+  }
+  
